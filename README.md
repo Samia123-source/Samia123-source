@@ -1,4 +1,5 @@
 
+<img width="6336" height="1584" alt="banner_samia_jahan_v4" src="https://github.com/user-attachments/assets/92d06dd9-5450-412c-a006-6e61b55b932c" />
 
 <h1 align="center">Hi 👋, I'm Samia Jahan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
