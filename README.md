@@ -15,10 +15,10 @@ I'm a frontend developer from Bangladesh who enjoys turning designs into clean, 
 
 ## Currently
 
-- 🔭 I'm currently working at **Cloud Company**
-- 🌱 I'm exploring **[e.g. Next.js]**
-- 👯 I'm working on **[e.g. a tourism website]**
-- 📫 Reach me at **samiamahim04@gmail.com**
+- I'm currently working at **Cloud Company**
+- I'm exploring ** Next.js**
+- I'm working on **a tourism website**
+- Reach me at **samiamahim04@gmail.com**
 
 ---
 
