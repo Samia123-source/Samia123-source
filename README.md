@@ -64,7 +64,7 @@ I'm a frontend developer from Bangladesh who enjoys turning designs into clean, 
 ## GitHub Stats
 
 <p align="center">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=samia123-source&show_icons=true&locale=en&hide_border=true&card_width=495" alt="GitHub stats" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=samiamahim&show_icons=true&locale=en&hide_border=true&card_width=495" alt="GitHub stats" />
 
-  <img height="120" src="https://streak-stats.demolab.com?user=samia123-source&hide_border=true" alt="GitHub streak" />
+  <img height="120" src="https://streak-stats.demolab.com?user=samiamahim&hide_border=true" alt="GitHub streak" />
 </p>
